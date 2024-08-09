@@ -1,5 +1,5 @@
 {
-  "name": "WALLYJAYTECH-MD@1.0",
+  "name": "ALVIN-MD@1.0",
   "description": "I am WALLYJAYTECH-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/wallyjaytechy",
   "logo": https://graph.org/file/21e984a94def2215b0215.jpg",
   "keywords": ["whatsappbot", "WALLYJAYTECHMD", "WALLYJAYTECH MD bot", "WALLYJAYTECH-MD, "SWALLYJAYTECHMDWhatsaooBot", "WALLYJAYTECHWaBot","WALLYJAYTECHMD","WALLYJAYTECH MD Whatsapp Bot","multi device"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Wally Jay Tech",
+      "value": "ALVIN",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "WALLYJAYTECH-MD"
+      "value": "MBOKOSHO CLAN"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348144317152"
+      "value": "+L254 104 916091"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
